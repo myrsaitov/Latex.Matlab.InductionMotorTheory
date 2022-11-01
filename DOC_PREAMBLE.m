@@ -1,0 +1,10 @@
+AddStr(fID,'\documentclass[12pt,a4paper]{scrartcl}');
+AddStr(fID,'\usepackage{mathtext}');
+AddStr(fID,'\usepackage[T2A]{fontenc}');
+AddStr(fID,'\usepackage[utf8]{inputenc}');
+AddStr(fID,'\usepackage[english,russian]{babel}');
+AddStr(fID,'\usepackage{indentfirst}');
+AddStr(fID,'\usepackage{misccorr}');
+AddStr(fID,'\usepackage{graphicx}');
+%AddStr(fID,'\usepackage{amsmath}');
+AddStr(fID,'\usepackage{amsmath, amsfonts}');

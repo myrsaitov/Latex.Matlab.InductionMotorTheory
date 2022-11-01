@@ -1,0 +1,3 @@
+AddStr(fID,'\[');
+AddStr(fID,'\frac{2\, {\mathrm{\omega}}^2\, \tan\!\left(\mathrm{\omega}\, t\right)\, \left({\tan\!\left(\mathrm{\omega}\, t\right)}^2 + 1\right)}{\cos\!\left(\mathrm{\beta}_{1}\right)\, \left(\frac{{\tan\!\left(\mathrm{\omega}\, t\right)}^2}{{\cos\!\left(\mathrm{\beta}_{1}\right)}^2} + 1\right)} - \frac{2\, {\mathrm{\omega}}^2\, \tan\!\left(\mathrm{\omega}\, t\right)\, {\left({\tan\!\left(\mathrm{\omega}\, t\right)}^2 + 1\right)}^2}{{\cos\!\left(\mathrm{\beta}_{1}\right)}^3\, {\left(\frac{{\tan\!\left(\mathrm{\omega}\, t\right)}^2}{{\cos\!\left(\mathrm{\beta}_{1}\right)}^2} + 1\right)}^2}');
+AddStr(fID,'\]');
